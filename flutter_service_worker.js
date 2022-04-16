@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/gameIcons/valorant_ico.jpg": "e751a007297dfb89eca3b5c58aacd541",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/launch_image.png": "5da2624655d2b95e9669c94dd000c711",
 "assets/NOTICES": "606ea2810cde58951815aa2eb951180d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "187d44caab1daca381b4a23f1075ea16",
@@ -20,10 +21,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "a906c14ac4db3229dea6391350481b5d",
 "icons/Icon-maskable-192.png": "fd2a066bd87132b0e3f9bdc49c4729f9",
 "icons/Icon-maskable-512.png": "a906c14ac4db3229dea6391350481b5d",
-"index.html": "77e404af9b62cd54167f0fea39e37e5d",
-"/": "77e404af9b62cd54167f0fea39e37e5d",
+"index.html": "bc5244d4453f3582e7241087415b7288",
+"/": "bc5244d4453f3582e7241087415b7288",
 "main.dart.js": "214c8239b71916673bdfe3d00bb7f6d0",
 "manifest.json": "4d1e80598511c566cbc3e56f580452b0",
+"splash_screen.css": "e609b3034577e52c1659d7a7fd28c73d",
 "version.json": "0f8aaf9a32bdaee4704f4b57df3e8c2b"
 };
 
